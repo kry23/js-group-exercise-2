@@ -25,6 +25,6 @@ Make another promise that will extract all the even numbers of the array.
 
 Make a function that calculates the sum of each array of odd and even numbers, compares them and returns the array that has a greater sum.
 
-Move this functionality in the class Data, to a static function "getOdd", "getEven" and "getBiggestSumArray".
+Move this functionality in the class Data, to static functions "getOdd", "getEven" and "getBiggestSumArray".
 
 
