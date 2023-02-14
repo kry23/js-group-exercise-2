@@ -1,19 +1,5 @@
 # Starting repository for group project.
 
-## Optional:
-
-    First, make sure you have **nodejs** installed.
-    Then, run:
-
-    ```bash
-    npm install
-    npm install -g nodemon
-    ```
-
-    This will install **nodemon**, a program to run your code immediately after making changes to it.
-
-    Then run the **dev-quiet** script from vscode.
-
 ## Exercise starts here.
 Start making changes to your *main.js* file.
 
